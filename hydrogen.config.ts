@@ -4,7 +4,7 @@ export default defineConfig({
   shopify: {
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
-    storeDomain: 'hydrogenapp-test.myshopify.com/',
+    storeDomain: 'hydrogenapp-test.myshopify.com',
     storefrontToken: '3cac9559297e323fc31255eff8a25389',
     storefrontApiVersion: '2022-07',
   },
